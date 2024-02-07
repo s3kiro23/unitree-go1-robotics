@@ -30,7 +30,3 @@ Suivez les instructions à l'écran pour enregistrer des commandes vocales. Appu
 ## Contribuer
 
 Les contributions à ce projet sont les bienvenues. Vous pouvez contribuer en améliorant le code, en ajoutant de nouvelles fonctionnalités ou en corrigeant des bugs.
-
-## Licence
-
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
